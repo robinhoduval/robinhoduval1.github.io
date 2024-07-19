@@ -548,7 +548,7 @@ body {
   display: inline-block;
   position: relative;
   padding: 10px 25px;
-  background-color: #ff2f00;
+  background-color: #ff6f00;
   color: white;
   font-family: sans-serif;
   text-decoration: none;
@@ -559,7 +559,7 @@ body {
  }
  
  .buttonDownload:hover {
-  background-color: #ff6f00;
+  background-color: #3f3f3f;
   color: white;
  }
  

@@ -592,11 +592,11 @@ body {
  }
  
  .buttonDownload:hover:before {
-  border-color: #cdefbd;
+  border-color: #ff8c00;
  }
  
  .buttonDownload:hover:after {
-  border-top-color: #cdefbd;
+  border-top-color: #ff7300;
   animation-play-state: running;
  }
  

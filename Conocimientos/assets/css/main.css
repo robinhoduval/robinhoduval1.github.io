@@ -555,11 +555,11 @@ body {
   font-size: 0.9em;
   text-align: center;
   text-indent: 15px;
-  border-radius: 10px;
+  border-radius: 8px;
  }
  
  .buttonDownload:hover {
-  background-color: #3f3f3f;
+  background-color: #ffffff;
   color: white;
  }
  
